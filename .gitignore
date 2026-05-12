@@ -1,0 +1,20 @@
+# Arduino IDE build files
+build/
+*.build/
+*.precompiled/
+*.elf
+*.hex
+*.bin
+*.a
+*.o
+*.ino.cpp
+*.map
+*.bz2
+*.zip
+*.tar.gz
+
+# VS Code and OS specific
+.vscode/
+.vs/
+*.DS_Store
+Thumbs.db
